@@ -10,7 +10,7 @@ This game puts players in the middle of a frantic battle inspired by Communityâ€
 
 ## Installation
 Option 1:
-  1. Click the link in pages to play on an online emulator
+  1. Visit [https://emmariley08.github.io/GBA_Site/](https://emmariley08.github.io/GBA_Site/) to play on an online emulator
 
 Option 2:
   1. Download the .gba ROM file from the project release.
